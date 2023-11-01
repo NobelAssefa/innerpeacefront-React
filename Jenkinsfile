@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('checkOutcode') {
       steps {
-        git(url: 'https://github.com/NobelAssefa/innerpeacefront-React', branch: 'main')
+        git(url: 'https://github.com/NobelAssefa/innerpeacefront-React', branch: 'new-branch')
       }
     }
 
