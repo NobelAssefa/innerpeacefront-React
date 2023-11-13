@@ -11,7 +11,7 @@ function AboutPage() {
           <div className="about__data">
           <h2 className="section__title">About</h2>
             <p className="about__description">
-              Inner Peace was established to offer comprehensive mental health
+              checkforInner Peace was established to offer comprehensive mental health
               care to individuals in need. We strongly believe that fostering
               mental wellness benefits an individual's overall well-being due to
               its importance in life. Our organization's main objective is to
