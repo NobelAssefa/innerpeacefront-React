@@ -13,7 +13,7 @@ spec:
     spec: 
       containers:
         - name: myfirstpod
-          image: abeldoc/innerpeacefront:latest
+          image: abeldoc/innerpeace
   replicas: 1
   selector:
     matchLabels:
