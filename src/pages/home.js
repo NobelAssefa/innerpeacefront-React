@@ -20,7 +20,7 @@ function Homepage() {
               Inner Peace
             </h2>
             <p className="about__description">
-              check Inner Peace was established to offer comprehensive mental health
+               Inner Peace was established to offer comprehensive mental health
               care to individuals in need. We strongly believe that fostering
               mental wellness benefits an individual's overall well-being due to
               its importance in life. Our organization's main objective is to
